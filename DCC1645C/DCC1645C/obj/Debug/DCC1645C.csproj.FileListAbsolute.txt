@@ -1,0 +1,9 @@
+C:\Users\Student\source\repos\DCC1645C\DCC1645C\obj\Debug\DCC1645C.Form1.resources
+C:\Users\Student\source\repos\DCC1645C\DCC1645C\obj\Debug\DCC1645C.Properties.Resources.resources
+C:\Users\Student\source\repos\DCC1645C\DCC1645C\obj\Debug\DCC1645C.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\DCC1645C\DCC1645C\obj\Debug\DCC1645C.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\DCC1645C\DCC1645C\bin\Debug\DCC1645C.exe.config
+C:\Users\Student\source\repos\DCC1645C\DCC1645C\bin\Debug\DCC1645C.exe
+C:\Users\Student\source\repos\DCC1645C\DCC1645C\bin\Debug\DCC1645C.pdb
+C:\Users\Student\source\repos\DCC1645C\DCC1645C\obj\Debug\DCC1645C.exe
+C:\Users\Student\source\repos\DCC1645C\DCC1645C\obj\Debug\DCC1645C.pdb
